@@ -2,13 +2,15 @@
 
     "SW1TS": {
 
-            "hwid": "Aa7GBatLA+1qAR=="
+            "hwid": "Aa7GBatLA+1qAR==",
+            "role": "owner"
 
         },
 
     "MitenHvH": {
 
-            "hwid": "A01qB4bpAaXqAR=="
+            "hwid": "A01qB4bpAaXqAR==",
+            "role": "youtuber'
 
     }
 
